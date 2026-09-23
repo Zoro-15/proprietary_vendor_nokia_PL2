@@ -50,6 +50,7 @@ PRODUCT_COPY_FILES += \
     vendor/nokia/PL2/proprietary/vendor/etc/thermal-engine-PL2.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-PL2.conf \
     vendor/nokia/PL2/proprietary/vendor/firmware/TFA9891_pl2.cnt:$(TARGET_COPY_OUT_VENDOR)/firmware/TFA9891_pl2.cnt \
     vendor/nokia/PL2/proprietary/vendor/firmware/TFA9891_pl2.ini:$(TARGET_COPY_OUT_VENDOR)/firmware/TFA9891_pl2.ini \
+    vendor/nokia/PL2/proprietary/vendor/firmware/TAS2557MSSMono.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/TAS2557MSSMono.bin \
     vendor/nokia/PL2/proprietary/vendor/firmware/TP_Firmware_FT8716_PL2.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/TP_Firmware_FT8716_PL2.bin \
     vendor/nokia/PL2/proprietary/vendor/firmware/elanfp64.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/elanfp64.b00 \
     vendor/nokia/PL2/proprietary/vendor/firmware/elanfp64.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/elanfp64.b01 \
