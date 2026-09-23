@@ -74,6 +74,7 @@ PRODUCT_COPY_FILES += \
     vendor/nokia/PL2/proprietary/vendor/firmware/TFA9891_N1A_11_1_31_NL3_HQ.patch:$(TARGET_COPY_OUT_VENDOR)/firmware/TFA9891_N1A_11_1_31_NL3_HQ.patch \
     vendor/nokia/PL2/proprietary/vendor/firmware/TFA9891_pl2.cnt:$(TARGET_COPY_OUT_VENDOR)/firmware/TFA9891_pl2.cnt \
     vendor/nokia/PL2/proprietary/vendor/firmware/TFA9891_pl2.ini:$(TARGET_COPY_OUT_VENDOR)/firmware/TFA9891_pl2.ini \
+    vendor/nokia/PL2/proprietary/vendor/firmware/TAS2557MSSMono.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/TAS2557MSSMono.bin \
     vendor/nokia/PL2/proprietary/vendor/firmware/TP_Firmware_FT8716_PL2.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/TP_Firmware_FT8716_PL2.bin \
     vendor/nokia/PL2/proprietary/vendor/firmware/a508_zap.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/a508_zap.b01 \
     vendor/nokia/PL2/proprietary/vendor/firmware/a508_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a508_zap.mdt \
