@@ -119,8 +119,6 @@ PRODUCT_PACKAGES += \
     libsensor_reg \
     sensor_calibrate \
     sensors.ssc \
-    audio.primary.sdm660-nokia \
-    camera.sdm660-prebuilt \
     libacdb-fts \
     libacdbloader \
     libacdbrtac \
