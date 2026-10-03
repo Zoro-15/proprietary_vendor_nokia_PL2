@@ -240,7 +240,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-    name: "camera.sdm660",
+    name: "camera.sdm660-prebuilt",
     owner: "nokia",
     strip: {
         none: true,
