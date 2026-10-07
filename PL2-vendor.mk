@@ -115,7 +115,6 @@ PRODUCT_PACKAGES += \
     libsensor1 \
     libsensor_reg \
     sensor_calibrate \
-    sensors.ssc \
     libacdb-fts \
     libacdbloader \
     libacdbrtac \
@@ -313,6 +312,8 @@ PRODUCT_PACKAGES += \
     libremosaic_daemon \
     android.hardware.keymaster@3.0-impl-qti \
     fingerprint.elan \
+    sensors.sdm660 \
+    sensors.ssc \
     vendor_lib_rfsa_adsp_capi_v2_aptX_Classic_so \
     vendor_lib_rfsa_adsp_capi_v2_aptX_HD_so \
     vendor_lib_rfsa_adsp_libFastRPC_AUE_Forward_skel_so \
